@@ -1,0 +1,17 @@
+OVERVIEW:
+Base needs a moral boost. The booze is no longer good enough for the service
+members. We need you to make a program that will write out all the lyrics to
+'99 Bottles' for the service members while they are at work so that they can
+sing their favorite drunken melody.
+
+Requirements:
+- Have correct pluralization
+- Have correct grammar
+- Accept a command-line argument to be the new starting number of the program.
+    If no command-line argument is supplied, default to 99.
+- The project needs to be created in 60 lines or less of code
+    (comments and empty lines do not count)
+- The program can not crash
+- The program needs to be documented
+- Try using PIP8 for your coding format
+- Turn in the assignment as YOURNAME_bottles.py

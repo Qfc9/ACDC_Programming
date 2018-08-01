@@ -1,0 +1,29 @@
+Watch the following videos before the first project
+
+Printing:
+https://www.youtube.com/watch?v=UsCQXe1OHZk&index=3&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Math:
+https://www.youtube.com/watch?v=BvgPM9-krOY&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=4
+
+Variables:
+https://www.youtube.com/watch?v=vKqVnr0BEJQ&index=5&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+While Loop:
+https://www.youtube.com/watch?v=jSs58VZVLw8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=6
+
+For Loop:
+https://www.youtube.com/watch?v=xtXexPSfcZg&index=7&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+If Statement:
+https://www.youtube.com/watch?v=4u2ClNCtcgY&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=8
+
+If else Statement
+https://www.youtube.com/watch?v=qf0sfRZ0hHc&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=9
+
+If, If else, else Statements
+https://www.youtube.com/watch?v=42MBMSOZgD4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=10
+
+Research how to accept a command line argument
+
+Complete Mission 1

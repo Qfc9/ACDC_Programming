@@ -1,0 +1,5 @@
+1.
+Concatenating input on the end of a print statement is a slow process and can possibly introduce buffer overflows.
+
+2.
+Adding input via .format() is quick and the safe way of adding user input to printed text.

@@ -1,0 +1,38 @@
+OVERVIEW:
+Sweet game, but now that the service members are sober, the game is too easy.
+Make the game have a 20% change of lying to the user. So if it's supposed to
+say 'Too High' make it respond with 'Too low' and so on. Do not lie on whether
+they guess the correct number though. Also, save the score of every play to a
+file and have the option to see the current top 5 scores.
+
+Requirements:
+- Have correct grammar
+- Creates a scoreboard
+- Option to display the top 5 scores
+- Lies 20% of the time
+- Accept only valid input from the user
+- Track the amount of guesses
+- The program can not crash
+- The program needs to be documented
+- Try using PIP8 for your coding format
+- Turn in the assignment as YOURNAME_guessing.py
+
+Example Play through:
+./private_guessing.py
+Im thinking of a number between 1 and 100...
+Guess my number: 60
+60 is too low - guess again: 70
+70 is too high - guess again: 65
+65 is too low - guess again: 68
+68 is too low - guess again: 69
+69 is too low - guess again: 71
+71 is correct! You guessed my number in 7 guesses
+Enter your name: private
+
+Todays High scores:
+Name:           Score:
+Private         3
+Drunk Man       4
+Navy Pride      4
+CrayonsRGood    5
+CoastyIsCool    7
