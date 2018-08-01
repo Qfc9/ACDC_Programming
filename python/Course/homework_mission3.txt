@@ -1,2 +1,15 @@
+Watch the following videos
+
+Common Errors
+https://www.youtube.com/watch?v=AWIgW_F_k50&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=17
+
+Writing to a file
+https://www.youtube.com/watch?v=f6zeuk5UjuE&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=18
+
+Appending to a file
+https://www.youtube.com/watch?v=O3KAyaDvM-k&index=19&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Reading from a file
+https://www.youtube.com/watch?v=0SyyGIFnVCA&index=20&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
 
 Complete mission 3
