@@ -1,0 +1,28 @@
+OVERVIEW:
+Great job with the last project, but these drunken singing service members now
+want a game to play while they are trying to sober up at work. Uncle Sam
+needs you to create a High-Low guessing game. The game needs to choose a random
+number between 1 and 100. Have the player then guess a number and tell them if
+they guessed too high, too low or correctly. The program should not end until
+the user guesses the correct number. Keep track of how many times they guess
+and tell them at the end.
+
+Requirements:
+- Have correct grammar
+- Accept only valid input from the user
+- Track the amount of guesses
+- The program can not crash
+- The program needs to be documented
+- Try using PIP8 for your coding format
+- Turn in the assignment as YOURNAME_guessing.py
+
+Example Play through:
+./private_guessing.py
+Im thinking of a number between 1 and 100...
+Guess my number: 50
+50 is too low - guess again: 60
+60 is too low - guess again: Hello
+Hello is not a valid guess - guess again: 90
+90 is too high - guess again: 1776
+1776 is not a valid guess - guess again: 77
+77 is correct! You guessed my number in 4 guesses.

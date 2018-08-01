@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=KeRxe9rll2Q&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL
 
 Research how to make random numbers in python
 
+Research how to get input from the user
+
 Research what '.format' does in python. Use it for now on when adding variables
   to strings! No exceptions!
 

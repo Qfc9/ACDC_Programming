@@ -24,4 +24,6 @@ https://www.youtube.com/watch?v=qf0sfRZ0hHc&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL
 If, If else, else Statements
 https://www.youtube.com/watch?v=42MBMSOZgD4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=10
 
+Research how to accept a command line argument
+
 Complete Mission 1
