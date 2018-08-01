@@ -1,0 +1,5 @@
+OVERVIEW:
+Base needs a moral boost. The booze is no longer good enough for the service
+members. We need you to make a program that will write out all the lyrics to
+'99 Bottles' for the service members while they are at work so that they can
+sing their favorite drunken melody.
