@@ -1,0 +1,17 @@
+Watch the following videos before moving on to the next project
+
+Functions
+https://www.youtube.com/watch?v=owglNL1KQf0&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=11
+
+Functions and Parameters
+https://www.youtube.com/watch?v=CGRKqnoQGgM&index=12&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Functions and Default Parameters
+https://www.youtube.com/watch?v=KeRxe9rll2Q&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=13
+
+Research how to make random numbers in python
+
+Research what '.format' does in python. Use it for now on when adding variables
+  to strings! No exceptions!
+
+Complete mission 2
